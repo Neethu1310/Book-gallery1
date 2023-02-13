@@ -1,0 +1,83 @@
+body{
+    
+      background:linear-gradient(rgb(172, 94, 94),rgb(89, 89, 168))
+       
+}
+
+#a1{
+    padding:20px; 
+    margin: 20px;
+    text-decoration-style: wavy;
+ }
+
+
+
+
+div{
+    font-family: 'Dancing Script', cursive;
+    font-size:larger;
+   color: black;
+   width: 270px;
+   height: 550px;
+   float: left;
+   align-items: center;
+   justify-content: space-evenly;
+   border: 2px inset brown;
+padding: 20px;
+margin: 20px;
+background-color:rgba(56, 52, 52, 0.623);
+}
+
+img{
+    width: 100%;
+    height: 150px;
+    border: 2px solid rgb(147, 45, 45);
+    border-radius: 100px;
+}
+
+ 
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+
+h1:hover{
+    color: azure;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+a{
+    color:black;
+}
+a:hover{
+    color: azure;
+}
+
+.row1{
+    background-color: azure;
+    width: 100%;
+    height: 200px;
+    border: 2px solid blue;
+}
+
+.cols{
+    height: 100px;
+    background-color:azure;
+    border: none;
+ 
+}
+.cols1{
+    margin-left: 400px;
+  
+}
+
+#img1{
+    width: 50px;
+    height: 50px;
+    border: none;
+}
